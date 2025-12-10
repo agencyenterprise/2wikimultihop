@@ -1,5 +1,7 @@
 tmp*
 *.json
+*.jsonl
+*.zip
 __pycache__
 .DS_Store
 */__pycache__
