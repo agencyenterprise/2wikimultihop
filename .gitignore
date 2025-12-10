@@ -8,3 +8,6 @@ __pycache__
 */*.err
 */*.out
 */out
+.cursorindexingignore
+.specstory/
+.venv/
